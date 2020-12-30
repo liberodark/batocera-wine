@@ -1,4 +1,4 @@
-pkgname = proton
+pkgname = wine-proton
 pkgver = 5.13-3
 pkgdesc = Wine is not emulator
 arch = x86_64
