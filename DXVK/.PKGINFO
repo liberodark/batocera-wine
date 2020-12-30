@@ -1,0 +1,9 @@
+pkgname = dxvk
+pkgver = 1.7.3
+pkgdesc = Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
+arch = x86_64
+group = sys-windows
+packager = liberodark
+url = https://github.com/doitsujin/dxvk
+size = 208666624
+builddate = 1605601373
